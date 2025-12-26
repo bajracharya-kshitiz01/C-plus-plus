@@ -7,8 +7,4 @@ int main(){
   cin>>x;
   cout<<"Enter the Second number: "<<endl;
   cin>>y;
-
-  
-
-
 }
