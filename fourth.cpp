@@ -2,9 +2,9 @@
 using namespace std;
 
 void getdata(){
-  int x,y;
+  int xt,y;
     cout<<"Enter the first number: "<<endl;
-  cin>>x;
+  cin>>xt;
   cout<<"Enter the Second number: "<<endl;
   cin>>y;
 
