@@ -11,5 +11,6 @@ void getdata(){
 }
 int main(){
   getdata();
+  cout<<"checkout-1";
   return 0;
 }
