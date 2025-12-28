@@ -7,10 +7,10 @@ class Rectangle{
   double width;
 
   public:
-  void area(double x,double y){
-    length=x;
+  void area(double xt,double y){
+    length=xt;
     width=y;
-    cout<<x*y<<endl;
+    cout<<xt*y<<endl;
 }
 
   void perimeter(double x,double y){
@@ -24,6 +24,7 @@ int main(){
   Rectangle r;
   r.area(4,5);
   r.perimeter(0.8,1.2);
+  cout<<"checkout-12";
 
   return 0;
 }
